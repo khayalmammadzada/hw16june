@@ -1,0 +1,13 @@
+/Users/khayalmammadzada/Desktop/newfolder/hw16june/hw16june/bin/Debug/netcoreapp3.1/hw16june.deps.json
+/Users/khayalmammadzada/Desktop/newfolder/hw16june/hw16june/bin/Debug/netcoreapp3.1/hw16june.runtimeconfig.json
+/Users/khayalmammadzada/Desktop/newfolder/hw16june/hw16june/bin/Debug/netcoreapp3.1/hw16june.runtimeconfig.dev.json
+/Users/khayalmammadzada/Desktop/newfolder/hw16june/hw16june/bin/Debug/netcoreapp3.1/hw16june.dll
+/Users/khayalmammadzada/Desktop/newfolder/hw16june/hw16june/bin/Debug/netcoreapp3.1/hw16june.pdb
+/Users/khayalmammadzada/Desktop/newfolder/hw16june/hw16june/obj/Debug/netcoreapp3.1/hw16june.csproj.AssemblyReference.cache
+/Users/khayalmammadzada/Desktop/newfolder/hw16june/hw16june/obj/Debug/netcoreapp3.1/hw16june.GeneratedMSBuildEditorConfig.editorconfig
+/Users/khayalmammadzada/Desktop/newfolder/hw16june/hw16june/obj/Debug/netcoreapp3.1/hw16june.AssemblyInfoInputs.cache
+/Users/khayalmammadzada/Desktop/newfolder/hw16june/hw16june/obj/Debug/netcoreapp3.1/hw16june.AssemblyInfo.cs
+/Users/khayalmammadzada/Desktop/newfolder/hw16june/hw16june/obj/Debug/netcoreapp3.1/hw16june.csproj.CoreCompileInputs.cache
+/Users/khayalmammadzada/Desktop/newfolder/hw16june/hw16june/obj/Debug/netcoreapp3.1/hw16june.dll
+/Users/khayalmammadzada/Desktop/newfolder/hw16june/hw16june/obj/Debug/netcoreapp3.1/hw16june.pdb
+/Users/khayalmammadzada/Desktop/newfolder/hw16june/hw16june/obj/Debug/netcoreapp3.1/hw16june.genruntimeconfig.cache

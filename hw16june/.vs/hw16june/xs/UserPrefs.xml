@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{B81BC26B-1A55-4E75-8E61-D77CD66887F9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="othertask/Library.cs">
+    <Files>
+      <File FileName="hw16june/Program.cs" Line="31" Column="52" />
+      <File FileName="hw16june/Student.cs" Line="34" Column="51" />
+      <File FileName="othertask/Program.cs" Line="1" Column="1" />
+      <File FileName="othertask/Product.cs" Line="11" Column="1" />
+      <File FileName="othertask/Book.cs" Line="15" Column="1" />
+      <File FileName="othertask/Journal.cs" Line="12" Column="74" />
+      <File FileName="othertask/Library.cs" Line="53" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="hw16june" expanded="True">
+            <Node name="hw16june" expanded="True" />
+            <Node name="othertask" expanded="True">
+              <Node name="Library.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.othertask FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.hw16june PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
